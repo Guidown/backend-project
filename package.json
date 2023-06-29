@@ -1,0 +1,28 @@
+{
+  "name": "backend-project",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Guidown/backend-project.git"
+  },
+  "keywords": [
+    "first-project",
+    "node.js",
+    "backend"
+  ],
+  "author": "Guidown",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Guidown/backend-project/issues"
+  },
+  "homepage": "https://github.com/Guidown/backend-project#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
